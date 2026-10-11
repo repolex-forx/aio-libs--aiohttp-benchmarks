@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-benchmarks",
+  "versions": [
+    {
+      "commit": "018d6a3dd9a343c0b1f1408b71ef4dd1d4d7a7fc",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:56:46.620722+00:00"
+    }
+  ]
+}
